@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 SEP is awesome
+#### 11 SEP is hard but awesome
 #### 12
 #### 13
 #### 14
